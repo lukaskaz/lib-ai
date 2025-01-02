@@ -1,2 +1,2 @@
 # lib-ai
-Library for ai processors
+Library for ai image processors
